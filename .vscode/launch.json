@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "buscacep",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "buscacep (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "buscacep (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "Flutter",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}
